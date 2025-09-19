@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GioiThieu", "GioiThieu\Gioi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlCoBan2", "ControlCoBan2\ControlCoBan2.csproj", "{2CF9D4FE-FA26-4188-92DA-3E60F4AAF806}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuVaDialog", "MenuVaDialog\MenuVaDialog.csproj", "{157A02F4-0681-43B0-8E59-D1415945AE47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2CF9D4FE-FA26-4188-92DA-3E60F4AAF806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CF9D4FE-FA26-4188-92DA-3E60F4AAF806}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CF9D4FE-FA26-4188-92DA-3E60F4AAF806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157A02F4-0681-43B0-8E59-D1415945AE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157A02F4-0681-43B0-8E59-D1415945AE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157A02F4-0681-43B0-8E59-D1415945AE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157A02F4-0681-43B0-8E59-D1415945AE47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

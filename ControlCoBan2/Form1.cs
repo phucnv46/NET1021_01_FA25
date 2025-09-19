@@ -14,11 +14,11 @@
             sinhVien.HoTen= textBoxHoTen.Text;
             sinhVien.GioiTinh = radioButtonNam.Checked;
             sinhVien.NgaySinh = dateTimePickerNgaySinh.Value;
-            sinhVien.Lop =  comboBoxLop.SelectedItem.ToString() ?? "Chưa rõ";
+            sinhVien.Lop =  comboBoxLop.SelectedItem?.ToString() ?? "Chưa rõ";
             sinhVien.DiaChi = textBoxDC.Text;
 
 
-            MessageBox.Show(sinhVien.ToString());
+            MessageBox.Show(sinhVien.ToString(),"Thông tin sinh viên",MessageBoxButtons.YesNo);
         }
     }
 }
