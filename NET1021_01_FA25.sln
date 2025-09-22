@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlCoBan2", "ControlCoB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuVaDialog", "MenuVaDialog\MenuVaDialog.csproj", "{157A02F4-0681-43B0-8E59-D1415945AE47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlsTapHop", "ControlsTapHop\ControlsTapHop.csproj", "{F94190A9-5AED-4FF0-97E3-9004E8E33CD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{157A02F4-0681-43B0-8E59-D1415945AE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{157A02F4-0681-43B0-8E59-D1415945AE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{157A02F4-0681-43B0-8E59-D1415945AE47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F94190A9-5AED-4FF0-97E3-9004E8E33CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F94190A9-5AED-4FF0-97E3-9004E8E33CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F94190A9-5AED-4FF0-97E3-9004E8E33CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F94190A9-5AED-4FF0-97E3-9004E8E33CD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

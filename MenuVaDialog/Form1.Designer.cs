@@ -112,6 +112,7 @@
             button3.TabIndex = 3;
             button3.Text = "Nhân viên";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // panel1
             // 
