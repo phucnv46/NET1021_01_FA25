@@ -39,6 +39,8 @@ namespace Datagridview_BingdingList
 
         private void buttonThem_Click(object sender, EventArgs e)
         {
+
+
             Anime anime = new Anime();
             if (!animes.Any())
             {
@@ -88,7 +90,9 @@ namespace Datagridview_BingdingList
         {
             textBoxMa.ResetText();
             textBoxTen.ResetText();
-            
+
         }
+
+      
     }
 }

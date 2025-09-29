@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlsTapHop", "ControlsT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datagridview_BindingList", "Datagridview_BingdingList\Datagridview_BindingList.csproj", "{C7F302E3-90BC-4EA7-93DB-A911CD789F27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KetNoiDatabase_EFCore", "KetNoiDatabase_EFCore\KetNoiDatabase_EFCore.csproj", "{ADC21811-B537-4FE1-8001-0D435A96668C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C7F302E3-90BC-4EA7-93DB-A911CD789F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7F302E3-90BC-4EA7-93DB-A911CD789F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7F302E3-90BC-4EA7-93DB-A911CD789F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC21811-B537-4FE1-8001-0D435A96668C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC21811-B537-4FE1-8001-0D435A96668C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC21811-B537-4FE1-8001-0D435A96668C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC21811-B537-4FE1-8001-0D435A96668C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
